@@ -1,0 +1,36 @@
+
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // By default, deny all reads and writes
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Allow anyone to read the user list for the leaderboard.
+    // Only allow users to read their own profile directly.
+    match /users/{userId} {
+      allow get: if request.auth.uid == userId;
+      allow list: if request.auth != null;
+      allow write: if request.auth.uid == userId;
+    }
+    
+    // Allow users to read and write to their own saved hackathons list.
+    match /users/{userId}/savedHackathons/{hackathonId} {
+      allow read, write, delete: if request.auth.uid == userId;
+    }
+
+    // Allow users to read and write to their own notifications
+    match /users/{userId}/notifications/{notificationId} {
+      allow read, write, delete: if request.auth.uid == userId;
+    }
+    
+    // Allow anyone to read and create hackathons, but only organizers to edit/delete their own.
+    match /hackathons/{hackathonId} {
+        allow read: if true;
+        allow create: if true;
+        allow update, delete: if request.auth.uid == resource.data.organizerId;
+    }
+  }
+}

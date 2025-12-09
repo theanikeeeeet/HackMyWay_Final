@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "cover-1",
+      "description": "A team of developers collaborating around a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1566140967404-b8b3932483f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjEzOTc1Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "cover-2",
+      "description": "Close-up of code on a dark screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2RlJTIwc2NyZWVufGVufDB8fHx8MTc2MTQxNzI4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "cover-3",
+      "description": "An auditorium full of people at a tech conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1700936655679-83f4b37d7d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0ZWNoJTIwY29uZmVyZW5jZXxlbnwwfHx8fDE3NjE0ODMwNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech conference"
+    },
+    {
+      "id": "cover-4",
+      "description": "A person sketching wireframes in a notebook.",
+      "imageUrl": "https://images.unsplash.com/photo-1532102235608-dc8fc689c9ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkZXNpZ24lMjB3aXJlZnJhbWV8ZW58MHx8fHwxNzYxNDc3ODY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design wireframe"
+    },
+    {
+      "id": "cover-5",
+      "description": "A futuristic city skyline at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1675326570919-946d728e9a25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjE0NDA4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "cover-6",
+      "description": "A circuit board with glowing components.",
+      "imageUrl": "https://images.unsplash.com/photo-1631375937044-6dd5beac01d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2lyY3VpdCUyMGJvYXJkfGVufDB8fHx8MTc2MTM4NzIzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "circuit board"
+    },
+    {
+      "id": "cover-7",
+      "description": "Students in a classroom working on laptops.",
+      "imageUrl": "https://images.unsplash.com/photo-1620829813573-7c9e1877706f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHVkZW50cyUyMGxhcHRvcHN8ZW58MHx8fHwxNzYxNDgzOTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students laptops"
+    },
+    {
+      "id": "cover-8",
+      "description": "A virtual reality headset on a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1639174326326-6e2ef8d8ae39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aXJ0dWFsJTIwcmVhbGl0eXxlbnwwfHx8fDE3NjE0MjY4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "virtual reality"
+    },
+    {
+      "id": "cover-9",
+      "description": "A hand holding a smartphone with a fintech app.",
+      "imageUrl": "https://images.unsplash.com/photo-1554260570-c7068c223285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaW50ZWNoJTIwYXBwfGVufDB8fHx8MTc2MTQ3NTMzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fintech app"
+    },
+    {
+      "id": "cover-10",
+      "description": "Abstract network of interconnected nodes.",
+      "imageUrl": "https://images.unsplash.com/photo-1573804432509-189cac6f9366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMG5ldHdvcmt8ZW58MHx8fHwxNzYxNDIwMzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract network"
+    },
+    {
+      "id": "cover-11",
+      "description": "A server room with racks of servers.",
+      "imageUrl": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzZXJ2ZXIlMjByb29tfGVufDB8fHx8MTc2MTQ2MDU3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "server room"
+    },
+    {
+      "id": "cover-12",
+      "description": "A gamer with a high-end setup playing a game.",
+      "imageUrl": "https://images.unsplash.com/photo-1685201251604-cf4fc8a799ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnYW1lciUyMHNldHVwfGVufDB8fHx8MTc2MTQ1MTc2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gamer setup"
+    },
+    {
+      "id": "cover-13",
+      "description": "A doctor looking at a tablet with medical data.",
+      "imageUrl": "https://images.unsplash.com/photo-1599045118108-bf9954418b76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwZGF0YXxlbnwwfHx8fDE3NjE0ODM5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical data"
+    },
+    {
+      "id": "cover-14",
+      "description": "Wind turbines in a field at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1562519990-50eb51e282b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aW5kJTIwdHVyYmluZXN8ZW58MHx8fHwxNzYxNDYyNjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wind turbines"
+    },
+    {
+      "id": "cover-15",
+      "description": "People volunteering for a social cause.",
+      "imageUrl": "https://images.unsplash.com/photo-1642726197634-2a21f764220a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzb2NpYWwlMjBnb29kfGVufDB8fHx8MTc2MTQ4Mzk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social good"
+    }
+  ]
+}

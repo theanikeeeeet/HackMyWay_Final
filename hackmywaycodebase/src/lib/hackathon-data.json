@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hck-001",
+    "title": "Innovation Sprint 2025",
+    "organizerName": "TechFest Org",
+    "sourcePlatform": "User Created",
+    "sourceUrl": null,
+    "description": "A 48-hour online hackathon focusing on sustainable development and social good.",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-17",
+    "mode": "Online",
+    "location": "Online",
+    "prizeMoney": 100000,
+    "difficulty": "Intermediate",
+    "tags": ["sustainability", "social-good", "web"],
+    "imageHint": "team-collaboration",
+    "status": "Upcoming",
+    "isScraped": false
+  },
+  {
+    "id": "hck-002",
+    "title": "Campus Code Fest",
+    "organizerName": "ABC University",
+    "sourcePlatform": "Devpost",
+    "sourceUrl": "https://devpost.com/hackathons/campus-code-fest-2025",
+    "description": "On-campus hackathon open for students, focusing on web and mobile apps.",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-03",
+    "mode": "Offline",
+    "location": "Mumbai, India",
+    "prizeMoney": 50000,
+    "difficulty": "Beginner",
+    "tags": ["web", "mobile", "student"],
+    "imageHint": "students-laptops",
+    "status": "Ended",
+    "isScraped": true
+  }
+]
